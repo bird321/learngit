@@ -3,5 +3,6 @@ gitjack rose is free software
 ooopqwe
 insert 
 two
-three
+three1:x
+2
 first
