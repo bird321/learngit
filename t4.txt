@@ -1,8 +1,1 @@
-creating a new branch is quick
-asd:
-x
-<<<<<<< HEAD
-master insert feature
-=======
-feature1
->>>>>>> feature1
+ooo
