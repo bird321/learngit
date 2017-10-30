@@ -3,14 +3,18 @@ gitjack rose is free software
 <<<<<<< HEAD
 hello world
 =======
+<<<<<<< HEAD
 iiiiii
 iqeasd
+=======
+iiiiiippqwe
+>>>>>>> dev
 >>>>>>> dev
 oopqwe
 insert 
 oooo
 two
-three1:x
+opqwethree1:x
 2
 first
 github 第一此使用
