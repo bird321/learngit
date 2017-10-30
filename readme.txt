@@ -4,6 +4,7 @@ gitjack rose is free software
 hello world
 =======
 iiiiii
+iqeasd
 >>>>>>> dev
 oopqwe
 insert 
