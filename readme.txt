@@ -10,5 +10,5 @@ github 第一此使用
 github中存有公钥
 使用者持有私钥
 持有私钥的用户才能登录github
-
+haoyun
 
