@@ -1,6 +1,10 @@
 it is a version control software
 gitjack rose is free software
+<<<<<<< HEAD
 hello world
+=======
+
+>>>>>>> dev
 oopqwe
 insert 
 
