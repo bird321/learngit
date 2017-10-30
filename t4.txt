@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 q
 p
 o
@@ -5,6 +6,11 @@ o
 p
 
 =======
+=======
+oo
+
+qqo
+>>>>>>> dev
 with --no-off
 with no-off
 >>>>>>> dev
