@@ -1,6 +1,7 @@
 it is a version control software
 gitjack rose is free software
-ooopqwe
+
+oopqwe
 insert 
 two
 three1:x
