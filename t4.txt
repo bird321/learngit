@@ -1,5 +1,10 @@
 q
 p
 o
+<<<<<<< HEAD
 p
 
+=======
+with --no-off
+with no-off
+>>>>>>> dev
